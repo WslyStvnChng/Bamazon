@@ -1,15 +1,25 @@
 # Bamazon
 
-An interactive shopping node application uses MYSQL (open-source data management system) & Node.js. Users are able to create, update and track products within the inventory and as a manager have the ability to track total sales. 
+**An interactive shopping node application uses MYSQL (open-source data management system) & Node.js. Users are able to create, update and track products within the inventory and as a manager have the ability to track total sales. **
 
-Bamazon Customer Viewport
+**Bamazon Customer Viewport**
 
-The Bamazon Customer Viewport prompt users if they would like to purchase an item from the inventory.  
-
+**The Bamazon Customer Viewport prompt users if they would like to purchase an item from the inventory. **
+# User may respond to either Si por favor OR No por favor
+# Selecting No will prompt user to come back
 
 <img src="https://user-images.githubusercontent.com/20217929/36652636-39c76596-1a6d-11e8-8c3b-08cc045d9bb3.png" width="15%"></img> 
+
+**When user selects Si por favor, it will print all the available items; showing their product number, name, department and price
 <img src="https://user-images.githubusercontent.com/20217929/36652638-39db45e8-1a6d-11e8-8848-96a5a73ab9dd.png" width="15%"></img> 
+
 <img src="https://user-images.githubusercontent.com/20217929/36652639-39ee06ce-1a6d-11e8-9083-5ebd6c57a964.png" width="15%"></img> 
+
+**Inquirer will prompt user which item they would like to purchase. Using the arrow key, select which item wanting to purchase
 <img src="https://user-images.githubusercontent.com/20217929/36652640-3a00034c-1a6d-11e8-9901-8b27b12a0318.png" width="15%"></img> 
+
+**Inqurier will then prompt user how many items they would like to buy. Simply a number value will be placed here
 <img src="https://user-images.githubusercontent.com/20217929/36652641-3a10c22c-1a6d-11e8-84a4-1b68a386c432.png" width="15%"></img> 
+
+**After selecting the quantity of items to purchase, it will either prompt a success (like in the picture) or it will prompt that there's insufficient quantity
 <img src="https://user-images.githubusercontent.com/20217929/36652642-3a21bc80-1a6d-11e8-9aa4-48a98a9bd151.png" width="15%"></img> 
