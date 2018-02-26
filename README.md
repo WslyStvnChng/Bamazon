@@ -8,7 +8,7 @@
 # User may respond to either Si por favor OR No por favor
 # Selecting No will prompt user to come back
 
-<img src="https://user-images.githubusercontent.com/20217929/36652636-39c76596-1a6d-11e8-8c3b-08cc045d9bb3.png" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/20217929/36652636-39c76596-1a6d-11e8-8c3b-08cc045d9bb3.png" width="15%" class="center"></img> 
 
 **When user selects Si por favor, it will print all the available items; showing their product number, name, department and price
 <img src="https://user-images.githubusercontent.com/20217929/36652638-39db45e8-1a6d-11e8-8848-96a5a73ab9dd.png" width="15%"></img> 
