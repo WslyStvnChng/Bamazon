@@ -49,3 +49,4 @@ VALUES (0000010, "ATARI 2600", "Entertainment", 69.99, 4);
 
 SELECT * FROM products;
 
+#DROP TABLE products;
