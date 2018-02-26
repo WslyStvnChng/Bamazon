@@ -1,1 +1,15 @@
 # Bamazon
+
+An interactive shopping node application uses MYSQL (open-source data management system) & Node.js. Users are able to create, update and track products within the inventory and as a manager have the ability to track total sales. 
+
+Bamazon Customer Viewport
+
+The Bamazon Customer Viewport prompt users if they would like to purchase an item from the inventory.  
+
+
+<img src="https://user-images.githubusercontent.com/20217929/36652636-39c76596-1a6d-11e8-8c3b-08cc045d9bb3.png" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/20217929/36652638-39db45e8-1a6d-11e8-8848-96a5a73ab9dd.png" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/20217929/36652639-39ee06ce-1a6d-11e8-9083-5ebd6c57a964.png" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/20217929/36652640-3a00034c-1a6d-11e8-9901-8b27b12a0318.png" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/20217929/36652641-3a10c22c-1a6d-11e8-84a4-1b68a386c432.png" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/20217929/36652642-3a21bc80-1a6d-11e8-9aa4-48a98a9bd151.png" width="15%"></img> 
