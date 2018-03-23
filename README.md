@@ -1,5 +1,3 @@
-# Bamazon
-
 <h1><strong>Bamazon-CLI</strong></h1>
 <tr>
 <p>An interactive shopping node application uses MYSQL (open-source data management system) & Node.js. Users are able to create, update and track products within the inventory and as a manager have the ability to track total sales.</p>
