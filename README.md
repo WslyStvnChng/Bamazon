@@ -9,13 +9,13 @@
 <ul>
 <li>JavaScript</li>
  <li>Node</li>
-<li>MYSQL</li>
+<li>MySQL</li>
 </ul>
 
 <h2>Dependencies</h2>
 <ul>
 <li>Inquirer</li>
- <li>MYSWL</li>
+ <li>MySQL</li>
 </ul>
 
 <h2>ScreenShot Walk-throughs</h2>
