@@ -20,9 +20,8 @@
  <li>MYSWL</li>
 </ul>
 
-<p>ScreenShot Walk-throughs
+<h2>ScreenShot Walk-throughs</h2>
   
-
 The Bamazon Customer Viewport prompt users if they would like to purchase an item from the inventory. 
 <ul>
   <li>User may respond to either "Si por favor" OR "No por favor"</li>
